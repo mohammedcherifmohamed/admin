@@ -1,4 +1,5 @@
 <?php
+// this is also change from GM2
 session_start();
 include "db.php";
 
