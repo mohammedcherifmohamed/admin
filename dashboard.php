@@ -1,4 +1,5 @@
 <?php
+// this is the changed part from GM2
 session_start();
 if (!isset($_SESSION["role"])) {
     header("Location: login.php");
